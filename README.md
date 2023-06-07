@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### FunnelConnect Mobile SDK
+### FunnelConnect Android SDK
 
 For installation and integration, please visit this [link](https://docs.teavaro.com/documentation/)
 
