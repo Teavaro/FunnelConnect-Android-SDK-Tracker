@@ -6,7 +6,7 @@
 For installation and integration, please visit this [link](https://docs.teavaro.com/android/)
 
 **Bugs and issues tracker**  
-If you encountered a bug or have a feature request/suggestions feel free to [create an issue](https://github.com/Teavaro/FunnelConnect-Mobile-SDK-Tracker/issues/new).
+If you encountered a bug or have a feature request/suggestions feel free to [create an issue](https://github.com/Teavaro/FunnelConnect-Android-SDK-Tracker/issues/new).
 </div>
 
 * [All issues](https://github.com/Teavaro/FunnelConnect-Mobile-SDK-Tracker/issues)
